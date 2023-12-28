@@ -1,0 +1,14 @@
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+D:\Coding101\Ödevler\Dapper\HizTesti\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
